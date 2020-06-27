@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on BrainDump</title>
-    <link>http://blog.tedx.dev/posts/</link>
+    <link>https://ted-xie.github.io/posts/</link>
     <description>Recent content in Posts on BrainDump</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 27 Jun 2020 15:41:13 -0700</lastBuildDate>
     
-	<atom:link href="http://blog.tedx.dev/posts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://ted-xie.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Hello</title>
-      <link>http://blog.tedx.dev/posts/hello/</link>
+      <link>https://ted-xie.github.io/posts/hello/</link>
       <pubDate>Sat, 27 Jun 2020 15:41:13 -0700</pubDate>
       
-      <guid>http://blog.tedx.dev/posts/hello/</guid>
+      <guid>https://ted-xie.github.io/posts/hello/</guid>
       <description>Welcome to my blog! I may occasionally write some articles about some non-work/non-proprietary/non-secret projects that I am working on. Or I might choose to write about something else.</description>
     </item>
     
